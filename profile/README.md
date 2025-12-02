@@ -19,11 +19,11 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xh34z&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=0xh34z&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xh34z&layout=compact&theme=radical&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh34z&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xh34z&theme=radical&hide_border=true)
+  <img src="https://streak-stats.demolab.com/?user=0xh34z&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -39,7 +39,7 @@
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xh34z&theme=react-dark&hide_border=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xh34z&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
   
 </div>
 
