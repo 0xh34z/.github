@@ -6,15 +6,6 @@
   
 </div>
 
-## 🚀 About Me
-
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
-- 👯 I'm looking to collaborate on **[Type of projects]**
-- 💬 Ask me about **[Your expertise areas]**
-- 📫 How to reach me: **[Your email or contact]**
-- ⚡ Fun fact: **[Something interesting about you]**
-
 ## 📊 GitHub Stats
 
 <div align="center">
