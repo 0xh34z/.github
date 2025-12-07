@@ -6,18 +6,6 @@
   
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=0xh34z&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh34z&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  
-  <img src="https://streak-stats.demolab.com/?user=0xh34z&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
